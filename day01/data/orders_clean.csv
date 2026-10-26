@@ -1,0 +1,4 @@
+order_id,customer_name,order_date,amount,status
+1001,Andi,2026-10-01,150000,paid
+1002,Siti,2026-10-01,200000,paid
+1004,Dewi,2026-10-03,75500,pending

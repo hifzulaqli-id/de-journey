@@ -1,0 +1,4 @@
+order_id,customer_name,order_date,amount,status,reason
+1003,Budi,2026-10-02,,paid,jumlah kosong/tidak valid
+1002,SITI,01/10/2026,200000,PAID,duplikat order_id
+1005,,2026-10-03,50000,paid,nama kosong

@@ -1,10 +1,28 @@
-#Blok1
-Data engineering adalah orang yang menyiapkan data sebelum digunkana oleh data analys. Bait itu merawat , mnejadwalkan, membersihkan memastika data siap digunakan. 
+# Day 01 — Mengenal Data Engineering
+ 
+## Definisi DE (kata sendiri)
+Data engineering adalah salah satu profesi yang dibutuhkan untuk mengolah data data dari luaran, baik itu data yang masik terpisah letaknya, data yang berantakan, data kotor, dll.
+ 
+## Mengapa perusahaan butuh DE (min. 3)
+1. Data tersebar luas
+2. Data harus siap digunakan artinya clean
+3. data harus sesuai prosedur pipeline
+4. Data harus bisa otomatisai sendiri dengan waktu yang ditetapkan
+ 
+## Peran DE vs Analyst vs Scientist
+DE itu mengolah data ebelum data digunakan oleh DA, dan DA akan membaut data tersebut bisa di ambil keputusan dalam bentuk dashboard, DS itu proses lanjutan yang lebih kompleks menggunakan machine learning
+ 
+## Data mentah vs terstruktur
+data mentah itu data yang belum di cleaning sama sekali, data yang masih fromat beserakan, duplikat, dan tidak sesuai yang dibutuhkan. sedangkan data struktur format yang sudah disamkan, tipe data jelas, duplikat tidak ada, dan siap digunakan DA dan DS.
+ 
+## 6 tahap Source -> Analytics
+1. Sumber
+2. Pengambilan
+3. Raw storage
+4. Transformasi
+5. Data warehouse
+6. Analystic
+ 
+## Parkir Pertanyaan
+- Apanya beda Spark dan Pandas
 
-Data engineering dibutuhkan karena sebelum data di proses oleh data analys atau data sciencetis, data harus clear bersih dan siap digunakan. Apalagi di Era Ai ini banyak data yang digunakan dan DAta Engineering adalah salah satu job yang sangat di butuhkan perusahaan.
-
-Bedanya Data Engineer dan Data Aanalyst adalah pross kerjanya. Data engineer adalah tahap awal yang memproses semua data yang mungkin sumbernya dari API, CSV atau sebuah sytem yang akan selanjutnya akan di pakai Data Analyst, Karena data tersebut akan dibersihkan , diproses, dijadwal, di jadikan di satu tempat yang aka siap digunakan data Analyst. Sedangkan Data Analyst membuat sebuah insight atau kesimpulan dari data disitu yang dapat mengambil kesimpulan sesuai hasil data tersebut.
-
-
-PARKIR PERTANYAAN
-Apanya beda Spark dan Pandas
