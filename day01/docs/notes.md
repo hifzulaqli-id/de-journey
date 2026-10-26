@@ -26,3 +26,5 @@ data mentah itu data yang belum di cleaning sama sekali, data yang masih fromat 
 ## Parkir Pertanyaan
 - Apanya beda Spark dan Pandas
 
+## Source
+Video : https://www.tiktok.com/@aqil_de/video/7700793976428711174?is_from_webapp=1&sender_device=pc
